@@ -2,7 +2,7 @@
 
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](https://connectify-v0vf.onrender.com/login)
+[Demo App](https://connectify-v0vf.onrender.com/login)
 
 
 
