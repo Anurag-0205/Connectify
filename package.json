@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anurag-0205/Connectify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anurag-0205/Connectify/issues"
+  },
+  "homepage": "https://github.com/Anurag-0205/Connectify#readme",
   "description": ""
 }
